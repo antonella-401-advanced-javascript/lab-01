@@ -1,22 +1,20 @@
-# LAB - 00
+# LAB - 01
 
-## Proof of Life Server
+## Node Ecosystem
 
 ### Author: Antonella Gutierrez
 
 ### Links and Resources
-* [submission PR](https://github.com/antonella-401-advanced-javascript/lab-00/pull/1)
-* [travis](https://travis-ci.com/antonella-401-advanced-javascript/lab-00)
-* [front-end](https://antonella-lab00.herokuapp.com/) (when applicable)
+* [submission PR](https://github.com/antonella-401-advanced-javascript/lab-01/pull/1)
+* [travis](https://travis-ci.com/antonella-401-advanced-javascript/lab-01)
 
 #### Documentation
-* [jsdoc](https://antonella-lab00.herokuapp.com/docs/) (Server assignments)
+* [jsdoc](/docs/) (Server assignments)
 
 ### Modules
-#### `pos.js`
 ##### Exported Values and Methods
 
-###### `isAlive(dead) -> boolean`
+###### `isString/Number/Object/Array/Boolean/Function -> boolean`
 Returns true/false to indicate how the server works
 
 ### Setup
@@ -35,6 +33,3 @@ Returns true/false to indicate how the server works
 #### Tests
 * Unit Tests: `npm test`
 * Lint Tests: `npm run lint`
-
-#### UML
-![UML Diagram](uml.png)
